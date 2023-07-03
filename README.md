@@ -1,2 +1,2 @@
-# mangiare
+# Mangiare
 final project - booking system
